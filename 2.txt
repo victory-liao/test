@@ -3,3 +3,5 @@ this is a txt file
 hello world
 
 你好
+
+ninini
